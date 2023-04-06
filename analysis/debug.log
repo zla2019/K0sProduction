@@ -1,0 +1,41 @@
+LOG: Reading file list: 3p0K0Tree.list
+LOG: Reading Cut File: 3p0cutSetAcc2_1.1.0.txt
+CONFIG: Config file load successful
+CONFIG: start load cuts...
+CONFIG: end with empty char ""
+Cut: SideBand 0.52~0.58
+Cut: Pt 0.2~1.8
+Cut: Mass2Pim -0.1~0.15
+Cut: Rap -1~0
+Cut: Chi2PrimPip 10~1e+07
+Cut: Chi2NDF 0~5
+Cut: Chi2PrimPim 10~1e+07
+Cut: NHitsA 0~1e+07
+Cut: NHitsB 0~1e+07
+Cut: Mass2Pip -0.1~0.15
+Cut: KS0DCA -1e+07~1e+07
+Cut: DCAA 0.6~1e+07
+Cut: NHitsDedx -1e+07~1e+07
+Cut: DCAB 0.6~1e+07
+Cut: SideBand2 0.42~0.48
+Cut: Mass -1e+07~1e+07
+Cut: NSigmaPi -3~3
+Cut: Chi2Topo 0~5
+Cut: DecayLength -1e+07~1e+07
+Switch: Open3DCF 0
+Switch: OpenPairPurity 0
+Switch: OpenCF 1
+Switch: OpenNSigmaShift 1
+THS: NHitsDedx ths: 0 pattern: 0
+THS: Mass2Pip ths: 1 pattern: 1
+THS: Mass2Pim ths: 0 pattern: 0
+SET: Energy 3.0
+SET: PurityPath /home/zla/CF/rcfWork/3p0cutSetAcc2_1.1.0Purity.root
+SET: NSigmaMass 2
+LOG: Reading file: /home/zla/newCF/K0Kp/data/0A549E16D9F0CDE4D4F4CD918C550483_2333_ana.root
+LOG: nEvent: 34554
+LOG: ievent: 0
+LOG: ievent: 10000
+LOG: ievent: 20000
+LOG: ievent: 30000
+processing time: 1
